@@ -19,5 +19,7 @@ Proceso MenorMayor
 	Si contador > 0 Entonces
 		Escribir "MAYOR NUMERO INGRESADO: ", mayor;
 		Escribir "MENOR NUMERO INGRESADO: ", menor;
+	SiNo
+		Escribir "NO SE INGRESARON NUMEROS";
 	FinSi
 FinProceso
